@@ -1,0 +1,6 @@
+com\example\movements\service\MovementsService.class
+com\example\movements\repository\MovementRepository.class
+com\example\movements\MovementsApplication.class
+com\example\movements\controller\MovementsController$Status.class
+com\example\movements\model\Movement.class
+com\example\movements\controller\MovementsController.class
